@@ -1,6 +1,6 @@
 ## PROJETO E IMPLEMENTAÇÃO DO SISTEMA DE REGISTRO DE CARTÃO SIM ONLINE (SRCS)
 
-- Titulo: Sistema de registo de cartão SIM Online (SRCS):green_book:
+- Titulo: Sistema de registo de cartão SIM Online (SRCS)
 - Desenvolvedor: [Abd Arfe Amade Domingos](https://facebook.com/abd.domingos)
 - Email: [Abdizzoh@gmail.com](mailto:abdizzoh@gmail.com) / [Abd.domingos@outlook.com](mailto:abd.domingos@outlook.com)
 - Telefone: +258 829395843
